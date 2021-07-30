@@ -1,6 +1,6 @@
-### Lista de (quase) todas as dependências importantes para o desenvolvimento do Android Kotlin
+### Dependências importantes - Kotlin
 
-URL: https://arthurgonzaga.github.io/android-dependecies/
+URL: https://arthurgonzaga.github.io/android-dependencies/
 
 -  ### [Architecture](#architecture)
     * [Data Binding](#data-binding)
