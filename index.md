@@ -514,6 +514,9 @@ AndroidX Test é uma coleção de bibliotecas para teste. Inclui classes e méto
 dependencies {
       // Core library
       androidTestImplementation 'androidx.test:core:1.0.0'
+      
+      // Test livedata
+      testImplementation "androidx.arch.core:core-testing:$archTestingVersion"
 
       // AndroidJUnitRunner and JUnit Rules
       androidTestImplementation 'androidx.test:runner:1.1.0'
