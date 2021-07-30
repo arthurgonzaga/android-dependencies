@@ -1,4 +1,4 @@
-### Lista de (quase) todas as dependências importantes para o desenvolvimento do Android Kotlin
+### Dependências importantes - Android Kotlin
 
 URL: https://arthurgonzaga.github.io/android-dependencies/
 
