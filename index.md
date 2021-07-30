@@ -27,6 +27,7 @@ URL: https://arthurgonzaga.github.io/android-dependencies/
     * [ButterKnife](#butterknife)
     * [Mockito](#mockito)
     * [Espresso](#espresso)
+    * [AndroidX Test](#AndroidX-Test)
 <br>
 
 * ### [Foundation](#foundation)
