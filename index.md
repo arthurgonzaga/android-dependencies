@@ -291,7 +291,7 @@ Gson é uma biblioteca Java que pode ser usada para converter objetos Java em su
 
 ```gradle
 dependencies {
-    implementation 'com.squareup.retrofit2:converter-gson:2.8.7'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 }
 ```
 
